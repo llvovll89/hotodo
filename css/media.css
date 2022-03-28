@@ -1,0 +1,11 @@
+@media (max-width: 576px){
+    select {
+        display: none;
+    }
+    form {
+        margin-left: 35px;
+    }
+    input {
+        width: 330px;
+    }
+}
